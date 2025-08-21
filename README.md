@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hello 👋
+
+## Introduction 
+Am *-  Milkah Wangeci-*
+
+## current learning goals/interests
+_Am a passionate learner currently exploring *programming for web development*_
+
+## technologies/languages
+- python
+- html
+
+## current projects
+
+- **python examples & automation**
+
+  ## how to reach me
+  - _milkahcinge@gmail.com_
+
 
 <!--
 **milkahhub/milkahhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
